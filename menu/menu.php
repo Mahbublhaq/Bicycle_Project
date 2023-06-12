@@ -10,7 +10,7 @@
     <!-- RIGHT SIDE MENU -->
     <div id="menu">
         <ul>
-            <li><a href="..\view\home.php">Home</a></li>
+            <li><a href="..\view\index.php">Home</a></li>
             <li><a href="..\view\about.php">About</a></li>
             <li><a href="..\view\service.php">Services</a></li>
             <li><a href="..\view\contact.php">Contact</a></li>
